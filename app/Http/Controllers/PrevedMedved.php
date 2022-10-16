@@ -6,5 +6,9 @@ use Illuminate\Http\Request;
 
 class PrevedMedved extends Controller
 {
-    //Создан! Это местная ветка)
+    //Создан! Чтобы сделать pull в Git
+    public function preved()
+    {
+        return '';
+    }
 }
