@@ -6,5 +6,5 @@ use Illuminate\Http\Request;
 
 class PrevedMedved extends Controller
 {
-    //Создан!
+    //Создан! Это местная ветка)
 }
